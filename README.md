@@ -10,5 +10,4 @@ O programa deve alocar as embarcações (1 encouraçado, 1 fragata, 2 submarinos
 
 Deve ter uma opção de finalização automática do jogo.
 
-### Dimensões da embarcações:
-  <img src="Embarcações.png" alt="Imagem com os tipos de embarcações o jogo">
+
